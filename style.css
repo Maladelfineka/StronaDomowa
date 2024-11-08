@@ -7,18 +7,32 @@
     align-items: center;
     flex-direction: column; 
     font-family: "Nunito";
-
+    margin-top: 86px;
+    text-align: center;
 
 }
 .head-div {
-    width: 830px;
-    top: 300px;
-    gap: 68px;
+    width: 740px;
 }
+
 .dev-head {
     color:rgba(16, 112, 202, 1);
 }
 
 .h1-head {
     color: rgba(35, 67, 97, 1);
+}
+
+.button-head {
+    background-color: #4DA8FF;
+    color:#FFFFFF;
+    border-radius: 64px;
+    padding: 4px 24px;
+    border: #FFFFFF solid 1px;
+    /* width: 281px; */
+    height: 48px;
+    font-size: 20px;
+}
+.photo-head {
+    display: flex;
 }
