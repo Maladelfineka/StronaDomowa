@@ -36,3 +36,21 @@
 .photo-head {
     display: flex;
 }
+
+.obrazek-head {
+    border-radius: 50%;
+    height: 226px;
+    border: rgba(219, 234, 247, 1) solid 25px;
+    margin-bottom: 48px;
+
+}
+
+.a-head {
+    text-decoration: none;
+    color: #4DA8FF;
+    font-weight: 700;
+}
+
+.p-head {
+    color: #425A70;
+}
