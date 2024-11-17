@@ -54,3 +54,46 @@
 .p-head {
     color: #425A70;
 }
+
+.text-head {
+    display: flex;
+
+    align-items: flex-start;
+    flex-direction: column; 
+    position: relative;
+    left: 200px;
+    top: 40px;
+}
+
+.ogonek {
+    margin-left: 20px;
+}
+
+.hey-there {
+    width: 233px;
+    height: 72px;
+    background-color: #1070CA;
+    border-radius: 19px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 27px;
+    font-weight: 700;
+}
+
+.skills {
+    background-color: #1070CA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.my-skills{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
