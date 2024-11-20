@@ -14,7 +14,9 @@
 .head-div {
     width: 740px;
 }
-
+body {
+    margin: 0px;
+}
 .dev-head {
     color:rgba(16, 112, 202, 1);
 }
@@ -127,4 +129,20 @@
 
 .learn {
     list-style-image: url('Bullet.png');
+}
+
+.karta {
+    
+    background-color: #212528;
+    width: 580px;
+    height: 324px;
+    border-radius: 24px;
+}
+.projects {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 381px;
+    color: #808082;
 }
