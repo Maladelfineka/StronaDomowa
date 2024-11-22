@@ -137,6 +137,9 @@ body {
     width: 580px;
     height: 324px;
     border-radius: 24px;
+    display: flex;
+    flex-direction: column;
+    font-family: "Nunito";
 }
 .projects {
     display: flex;
@@ -145,4 +148,47 @@ body {
     flex-direction: column;
     margin-top: 381px;
     color: #808082;
+}
+
+.Icon {
+    margin-top: 59px;
+    margin-left: 52px; 
+}
+
+.text1{
+    margin-left: 88px;
+}
+.text1-2{
+    color: #FFFFFF;
+}
+.text2{
+    margin-top: 1px;
+    margin-left: 60px;
+}
+.text3{
+    margin-left: 104px;
+}
+.text4{
+    margin-top: 1px;
+    margin-left: 100px;
+}
+.Dot {
+    background: #464a4d;
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+    margin-left: 12px;
+    margin-top: 16px;
+}
+.Topbar{
+    display: flex;
+}
+a {
+    color: #14B5D0;
+}
+.bar {
+    background-color: #1E1E1E;
+    height: 38px;
+    width: 580px;
+    border-radius: 24px;
 }
