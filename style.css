@@ -224,3 +224,36 @@ a {
     flex-direction: column;
 
 }
+
+.contact {
+    background-color: #DBEAF7;
+    height: 568px;
+
+}
+
+.contact-h2 {
+    padding-top: 90px;
+    color: #234361;
+    font-family: "Nunito";
+    font-size: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+
+
+.button-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.button-button {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
