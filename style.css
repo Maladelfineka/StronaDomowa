@@ -135,7 +135,7 @@ body {
     
     background-color: #212528;
     width: 580px;
-    height: 324px;
+    height: 287px;
     border-radius: 24px;
     display: flex;
     flex-direction: column;
@@ -145,13 +145,22 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
-    margin-top: 381px;
+    gap: 24px;
+    margin-top: 204px;
+    color: #808082;
+}
+
+.projects2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 24px;
+    gap: 24px;
     color: #808082;
 }
 
 .Icon {
-    margin-top: 59px;
+    margin-top: 20px;
     margin-left: 52px; 
 }
 
@@ -162,14 +171,14 @@ body {
     color: #FFFFFF;
 }
 .text2{
-    margin-top: 1px;
+    margin-top: -9px;
     margin-left: 60px;
 }
 .text3{
     margin-left: 104px;
 }
 .text4{
-    margin-top: 1px;
+    margin-top: -9px;
     margin-left: 100px;
 }
 .Dot {
@@ -191,4 +200,27 @@ a {
     height: 38px;
     width: 580px;
     border-radius: 24px;
+}
+
+.project-h2 {
+    margin-top: 90px;
+    color: #212528;
+    font-family: "Nunito";
+    font-size: 56px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.project-p {
+    color:#425A70;
+    font-family: "Nunito";
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
 }
