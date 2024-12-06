@@ -249,6 +249,8 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 141px;
+    gap: 30px;
 
 }
 
@@ -256,4 +258,18 @@ a {
     display: flex;
     justify-content: space-between;
     gap: 20px;
+}
+
+.button-head {
+    margin-left: 83px;
+}
+
+.buttons-contact {
+    background: #ffffff;
+    border-radius: 50%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
