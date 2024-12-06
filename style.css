@@ -262,6 +262,7 @@ a {
 
 .button-head {
     margin-left: 83px;
+    border-width: 0;
 }
 
 .buttons-contact {
@@ -271,5 +272,5 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
