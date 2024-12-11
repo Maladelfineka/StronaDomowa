@@ -291,10 +291,38 @@ a {
     }
     .projects {
         flex-direction: column;
-        width: 288px;
-        height: 320px;
     }
     .projects2 {
         flex-direction: column;
+    }
+    .button-head {
+        margin-left: 0px;
+    }
+    .button-menu {
+        display: flex;
+        flex-direction: column;
+    }
+    .karta {
+        width: 288px;
+        font-size: 14px;
+    }
+    .bar {
+        width: 288px;
+    }
+    .text1 {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .text2-1 {
+        margin-left: 52px;
+    }
+    .text3 {
+        margin-left: 1px;
+        text-align: center;
+    }
+    .text4 {
+        margin-left: 17px;
+        text-align: center;
     }
 }
