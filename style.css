@@ -191,6 +191,7 @@ body {
 }
 .Topbar{
     display: flex;
+    
 }
 a {
     color: #14B5D0;
@@ -199,7 +200,7 @@ a {
     background-color: #1E1E1E;
     height: 38px;
     width: 580px;
-    border-radius: 24px;
+    border-radius:  24px 24px 0 0;
 }
 
 .project-h2 {
@@ -349,4 +350,7 @@ a {
         margin-left: 30px;
         margin-right: 30px;
     }
+}
+
+@media only screen and (max-width: 1320px) {
 }
